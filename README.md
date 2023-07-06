@@ -23,6 +23,7 @@ Here are some ideas to get you  started:
   ✨<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
   ✨<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
   ✨<img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
@@ -30,7 +31,7 @@ Here are some ideas to get you  started:
   <br/>
   
   <!-- 백 -->
-  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
+  ✨<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
   <br/>
   
   <!-- 환경, DB -->
@@ -39,5 +40,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white">&nbsp;
   <br/>
+</div>
+
 [Readme.md live mode](https://dillinger.io/)<br/>
 [Badge design](https://simpleicons.org/)
