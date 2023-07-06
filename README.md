@@ -16,7 +16,7 @@ Here are some ideas to get you  started:
 <!-- 헤더 문구 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=EEEEEE&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=%EC%83%81%EB%82%A8%EC%9E%90+Github)](https://git.io/typing-svg)
 
-<div align=center>
+<div align="center">
   <!-- 테크 스택 -->
   ## 📚Tech Stack📚
   
