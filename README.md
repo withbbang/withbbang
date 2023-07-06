@@ -15,7 +15,7 @@ Here are some ideas to get you  started:
 
 <div align=center>
   <!-- 테크 스택 -->
-## 📚Tech Stack📚
+  ## 📚Tech Stack📚
 
   <!-- 프론트 -->
   ✨<img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white">&nbsp;
