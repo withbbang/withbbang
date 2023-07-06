@@ -11,10 +11,11 @@ Here are some ideas to get you  started:
 - 📫 How to reach me: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&height=200&section=header&fontAlign=75&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&text=&animation=twinkling&height=200&fontAlign=75&fontAlignY=45)
 
 <!-- 헤더 내 문구 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=EEEEEE&center=false&vCenter=false&multiline=true&repeat=true&width=435&lines=%EC%83%81%EB%82%A8%EC%9E%90+Github)](https://git.io/typing-svg)
+
 <div align=center>
   <!-- 테크 스택 -->
   ## 📚Tech Stack📚
