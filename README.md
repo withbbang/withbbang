@@ -2,11 +2,12 @@
 
 <img src="https://img.shields.io/badge/NODE-339933?style=flat&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/REACTJS-61DAFB?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/NEXT-000000?style=flat&logo=nextdotjs&logoColor=white"> -->
 <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/NEST-E0234E?style=flat&logo=nestjs&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/NEST-E0234E?style=flat&logo=nestjs&logoColor=white"> -->
 <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">
 <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
