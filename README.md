@@ -23,7 +23,7 @@ Here are some ideas to get you  started:
   <br/><br/>
   
   <!-- 스킬 스택 -->
-  <span class="skill">📚Skill Stack📚</span>
+  <div class="skill">📚Skill Stack📚</div>
   <br/>
   
   <!-- 자주 사용 -->
