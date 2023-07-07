@@ -11,37 +11,57 @@ Here are some ideas to get you  started:
 - 📫 How to reach me: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&height=200&section=header&text=상남자%20GitHub&fontSize=50&animation=fadeIn&fontColor=eeeeee&fontAlign=75&fontAlignY=45)
 
-<!-- 헤더 문구 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=EEEEEE&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=%EC%83%81%EB%82%A8%EC%9E%90+Github)](https://git.io/typing-svg)
-<div style="display: flex; justify-content: center;">
+<div align=center>
   <!-- 테크 스택 -->
-  <h2>📚Tech Stack📚</h2>
+  <h2>📚Skill Stack📚</h2>
+  <br/>
   
+  🌞 Frequently used 🌞
+  <br/>
   <!-- 프론트 -->
-  ✨<img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white">&nbsp;
-  ✨<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white">&nbsp;
-  ✨<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
-  ✨<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
-  ✨<img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
-  <br/>
-  
   <!-- 백 -->
-  ✨<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
   <br/>
-  
   <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/NODE-339933?style=flat&logo=nodedotjs&logoColor=white">&nbsp;
+  <br/><br/>
+
+  🌥 Less used 🌥
+  <br/>
+  <!-- 프론트 -->
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
+  <br/>
+  <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white">&nbsp;
+  <br/><br/>
+
+  ☁️ Have ever used ☁️
   <br/>
+  <!-- 프론트 -->
+  <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=flat&logo=svelte&logoColor=white">&nbsp;
+  <!-- 백 -->
+  <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/APOLLO-311C87?style=flat&logo=apollographql&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">&nbsp;
+  <br/>
+  <!-- 환경, DB -->
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
+  <br/><br/>
 </div>
 
 [Readme.md live mode](https://dillinger.io/)<br/>
