@@ -82,7 +82,7 @@ Here are some ideas to get you  started:
 </div>
 
 <style type='text/css'>
-  [class*="skill"] { display: flex; font-weight: 500; font-size: 1.5em; }
+  [class*="skill"] { font-weight: 500; font-size: 1.5em; }
 </style>
 
 <!-- 참고 사이트 -->
