@@ -22,8 +22,8 @@ Here are some ideas to get you  started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithbbang%2Fhit-counter&count_bg=%23A3C5ED&title_bg=%23293BD5&icon=nextdoor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
   <br/><br/>
   
-  <!-- 테크 스택 -->
-  ## 📚Skill Stack📚
+  <!-- 스킬 스택 -->
+  <span class="skill">📚Skill Stack📚</span>
   <br/>
   
   <!-- 자주 사용 -->
@@ -80,6 +80,10 @@ Here are some ideas to get you  started:
   <!-- Git stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withbbang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<style type='text/css'>
+  [class*="skill"] { font-weight: 500; font-size: 1.5em; }
+</style>
 
 <!-- 참고 사이트 -->
 <!-- 헤더 푸터: https://capsule-render.vercel.app -->
