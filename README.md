@@ -19,11 +19,11 @@ Here are some ideas to get you  started:
   <br/><h1></h1><br/>
 
   <!-- 방문자 수 -->
-  <h2><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithbbang%2Fhit-counter&count_bg=%23A3C5ED&title_bg=%23293BD5&icon=nextdoor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a></h2>
+  <h2 border=none><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithbbang%2Fhit-counter&count_bg=%23A3C5ED&title_bg=%23293BD5&icon=nextdoor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a></h2>
   <br/><br/>
   
   <!-- 테크 스택 -->
-  <h2>📚Skill Stack📚</h2>
+  <h2 border=none>📚Skill Stack📚</h2>
   <br/>
   
   <!-- 자주 사용 -->
