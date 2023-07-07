@@ -12,16 +12,21 @@ Here are some ideas to get you  started:
 -->
 <div align=center>
   <!-- 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&text=&animation=twinkling&height=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&text=&animation=twinkling&height=100" />
 
   <!-- 헤더 문구 -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=EEEEEE&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=%EC%83%81%EB%82%A8%EC%9E%90+Github" alt="Typing SVG" /></a>
-  <br/><br/>
+  <br/><h1></h1><br/>
 
+  <!-- 방문자 수 -->
+  <h2><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithbbang%2Fhit-counter&count_bg=%23A3C5ED&title_bg=%23293BD5&icon=nextdoor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a></h2>
+  <br/><br/>
+  
   <!-- 테크 스택 -->
   <h2>📚Skill Stack📚</h2>
   <br/>
   
+  <!-- 자주 사용 -->
   🌞 Frequently used 🌞
   <br/>
   <!-- 프론트 -->
@@ -36,6 +41,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/NODE-339933?style=flat&logo=nodedotjs&logoColor=white">&nbsp;
   <br/><br/>
 
+  <!-- 덜 사용 -->
   🌥 Less used 🌥
   <br/>
   <!-- 프론트 -->
@@ -52,6 +58,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white">&nbsp;
   <br/><br/>
 
+  <!-- 사용한적 있음 -->
   ☁️ Have ever used ☁️
   <br/>
   <!-- 프론트 -->
@@ -66,7 +73,19 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
   <br/><br/>
+
+  <!-- 자주 사용하는 언어 -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withbbang&layout=compact)
+  <br/><br/>
+  <!-- Git stats -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withbbang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[Readme.md live mode](https://dillinger.io/)<br/>
-[Badge design](https://simpleicons.org/)
+<!-- 참고 사이트 -->
+<!-- 헤더 푸터: https://capsule-render.vercel.app -->
+<!-- 헤더 애니메이션 문구: https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- 방문자수 뱃지: https://hits.seeyoufarm.com/ -->
+<!-- 뱃지 생성: https://shields.io/badges/ -->
+<!-- 뱃지 예시 아이콘: https://simpleicons.org/ -->
+<!-- 자주 사용하는 언어: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Git stats: https://github.com/anuraghazra/github-readme-stats -->
