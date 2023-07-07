@@ -61,12 +61,12 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=flat&logo=svelte&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/THREEJS-000000?style=flat&logo=threedotjs&logoColor=white">&nbsp;
   <!-- 백 -->
-  <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/APOLLO-311C87?style=flat&logo=apollographql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
+  <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
   <br/><br/>
