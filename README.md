@@ -16,15 +16,11 @@ Here are some ideas to get you  started:
 
   <!-- 헤더 문구 -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=EEEEEE&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=%EC%83%81%EB%82%A8%EC%9E%90+Github" alt="Typing SVG" /></a>
-  <br/><br/>
+  <br/>
 
   <!-- 방문자 수 -->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithbbang%2Fhit-counter&count_bg=%23A3C5ED&title_bg=%23293BD5&icon=nextdoor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-  <br/>
-  
-  <!-- 스킬 스택 -->
-  <span class="skill">📚Skill Stack📚</span>
-  <br/>
+  <br/><br/>
   
   <!-- 자주 사용 -->
   🌞 Frequently used 🌞
@@ -83,10 +79,6 @@ Here are some ideas to get you  started:
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ba8ff,100:0015ad&text=&animation=twinkling&height=150&section=footer" />
 </div>
-
-<style type='text/css'>
-  [class*="skill"] { display: flex; font-weight: 500; font-size: 1.5em; }
-</style>
 
 <!-- 참고 사이트 -->
 <!-- 헤더 푸터: https://capsule-render.vercel.app -->
