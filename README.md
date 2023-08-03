@@ -30,6 +30,8 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=nextdotjs&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=flat&logo=reactquery&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/ZUSTAND-004088?style=flat&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
