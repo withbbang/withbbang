@@ -51,6 +51,9 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
   <br/>
+  <!-- 백 -->
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
+  <br/>
   <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
