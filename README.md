@@ -69,6 +69,7 @@ Here are some ideas to get you  started:
   <!-- 백 -->
   <img src="https://img.shields.io/badge/APOLLO-311C87?style=flat&logo=apollographql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
