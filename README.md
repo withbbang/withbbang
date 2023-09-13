@@ -71,6 +71,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=flat&logo=nestjs&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
