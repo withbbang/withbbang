@@ -77,7 +77,11 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
+  <br/>
+  <!-- 언어 -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">&nbsp;
   <br/><br/>
+  
 
   <!-- 자주 사용하는 언어 -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withbbang&layout=compact)
