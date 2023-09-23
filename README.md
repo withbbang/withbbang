@@ -64,7 +64,6 @@ Here are some ideas to get you  started:
   ☁️ Have ever used ☁️
   <br/>
   <!-- 프론트 -->
-  <img src="https://img.shields.io/badge/ASTRO-BC52EE?style=flat&logo=astro&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=flat&logo=svelte&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/THREEJS-000000?style=flat&logo=threedotjs&logoColor=white">&nbsp;
   <!-- 백 -->
