@@ -55,6 +55,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
+  <img src="https://img.shields.io/badge/SENTRY-362D59?style=flat&logo=sentry&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white">&nbsp;
