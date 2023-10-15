@@ -50,7 +50,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=reactl&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
