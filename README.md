@@ -32,6 +32,8 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=nextdotjs&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=flat&logo=reactquery&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ZUSTAND-004088?style=flat&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
@@ -44,10 +46,8 @@ Here are some ideas to get you  started:
   🌥 Less used 🌥
   <br/>
   <!-- 프론트 -->
-  <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
