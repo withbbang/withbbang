@@ -76,7 +76,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=flat&logo=nestjs&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
-  <img src="https://img.shields.io/badge/AWS LAMBDA-#FF9900?style=flat&logo=awslambda&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/AWSLAMBDA-#FF9900?style=flat&logo=awslambda&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
