@@ -34,6 +34,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/ZUSTAND-004088?style=flat&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
@@ -46,7 +47,6 @@ Here are some ideas to get you  started:
   🌥 Less used 🌥
   <br/>
   <!-- 프론트 -->
-  <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
@@ -56,6 +56,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
+  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SENTRY-362D59?style=flat&logo=sentry&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
@@ -79,7 +80,6 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/AWS LAMBDA-FF9900?style=flat&logo=awslambda&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker&logoColor=white">&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat&logo=prisma&logoColor=white">&nbsp;
