@@ -81,6 +81,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CENTOS-262577?style=flat&logo=centos&logoColor=white">&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat&logo=prisma&logoColor=white">&nbsp;
   <br/>
