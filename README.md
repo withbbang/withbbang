@@ -35,6 +35,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/ESLINT-4B32C3?style=flat&logo=eslint&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white">&nbsp;
