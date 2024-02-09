@@ -70,6 +70,7 @@ Here are some ideas to get you  started:
   <!-- 프론트 -->
   <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=flat&logo=svelte&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/THREEJS-000000?style=flat&logo=threedotjs&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;
   <!-- 백 -->
   <img src="https://img.shields.io/badge/APOLLO-311C87?style=flat&logo=apollographql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp;
