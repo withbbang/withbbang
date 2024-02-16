@@ -88,7 +88,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat&logo=prisma&logoColor=white">&nbsp;
   <br/>
   <!-- 언어 -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">&nbsp;
+  <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">&nbsp; -->
   <br/><br/>
   
 
