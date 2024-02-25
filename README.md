@@ -89,7 +89,6 @@ Here are some ideas to get you  started:
   <br/>
   <!-- 언어 -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/JAVA-A8B9CC?style=flat&logo=java&logoColor=white">&nbsp;
   <br/><br/>
   
 
