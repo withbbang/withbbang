@@ -78,6 +78,7 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=flat&logo=nestjs&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat&logo=sqlalchemy&logoColor=white">&nbsp;
   <br/>
   <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/AWS LAMBDA-FF9900?style=flat&logo=awslambda&logoColor=white">&nbsp;
