@@ -35,6 +35,8 @@ Here are some ideas to get you  started:
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REDUXSAGA-999999?style=flat&logo=reduxsaga&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ESLINT-4B32C3?style=flat&logo=eslint&logoColor=white">&nbsp;
   <br/>
   <!-- 백 -->
@@ -51,7 +53,6 @@ Here are some ideas to get you  started:
   <br/>
   <!-- 프론트 -->
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat&logo=webpack&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/BABEL-F9DC3E?style=flat&logo=babel&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;
   <br/>
