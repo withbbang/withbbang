@@ -43,6 +43,7 @@ Here are some ideas to get you  started:
   <!-- 환경, DB -->
   <img src="https://img.shields.io/badge/NODE-339933?style=flat&logo=nodedotjs&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=nginx&logoColor=white">&nbsp;
   <br/><br/>
 
   <!-- 덜 사용 -->
